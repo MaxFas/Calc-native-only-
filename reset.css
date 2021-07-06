@@ -1,0 +1,23 @@
+.my-cal{
+    width: 500px;
+    background: rgb(128, 49, 49);
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.function-panel button{
+    margin: 15px;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.number{
+    display: inline-block;
+}
+
+label{
+    display: block;
+    margin: 5px;
+}
